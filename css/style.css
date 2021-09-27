@@ -1,0 +1,112 @@
+body{
+  width: 100%;
+}
+
+#top{
+
+  background-color: #000000;
+}
+.navbar{
+
+  margin-left: 20px;
+
+}
+.navbar-brand{
+  padding-right: 70%;
+  font-family: "Bebas";
+  font-weight: bold;
+
+
+}
+#nvv{
+    font-size: 2rem;
+    color: #BD1616;
+}
+.nav-link{
+  margin:0 20px;
+}
+.top-text h1
+{
+  font-family: "Montserrat";
+  font-weight: 900!important;
+  font-size: 4rem!important;
+  line-height: 1.5;
+  color: #FF4646;
+}
+h3{
+  font-family: "Montserrat";
+  font-weight: 900!important;
+}
+
+#Benefits-heading{
+  font-family: "Dancing Script";
+  font-size: 3.5rem;
+  color: #FF6767;
+}
+
+.first-img{
+
+  width: 100%;
+}
+.top-text{
+margin-top: 7rem;
+margin-left: 20px;
+}
+
+#Benefits{
+  text-align: center;
+  margin-bottom: 5%;
+  margin-top: 2%;
+}
+.fa{
+  color: #FF7878;
+
+}
+p
+{
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #6D8299;
+}
+#pricing{
+
+  padding-bottom: 5%;
+
+  text-align: center;
+  background-color:#FF4848;
+}
+
+.card{
+  margin: 0 5%;
+}
+
+#pricing h2{
+  color: #fff;
+  font-family: "Montserrat";
+  font-weight: bold;
+  font-size: 3.5rem;
+
+}
+#pricing-disc{
+  color:#fff;
+  font-size: 2rem;
+}
+.card-body h2{
+  color: #334756!important;
+}
+#Contact{
+  font-family: "Montserrat";
+  font-weight: 400;
+  color: #082032;
+  padding:4%;
+  text-align: center;
+  background-color: #B5DEFF;
+}
+.footer-link
+{
+  font-size: 2rem;
+}
+#footer{
+  text-align: center;
+  margin: 3%;
+}
